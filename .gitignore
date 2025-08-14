@@ -1,0 +1,18 @@
+youtube_downloader_env/
+
+# Ignore virtual environments
+youtube_downloader_env/
+venv/
+env/
+temp/
+downloads/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE files
+.vscode/
+.idea/
